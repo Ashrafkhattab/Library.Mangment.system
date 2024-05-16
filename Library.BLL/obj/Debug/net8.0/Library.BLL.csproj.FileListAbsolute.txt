@@ -1,0 +1,16 @@
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\bin\Debug\net8.0\Library.BLL.deps.json
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\bin\Debug\net8.0\Library.BLL.dll
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\bin\Debug\net8.0\Library.BLL.pdb
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\bin\Debug\net8.0\Library.DAL.dll
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\bin\Debug\net8.0\Library.DAL.pdb
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\Library.BLL.csproj.AssemblyReference.cache
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\Library.BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\Library.BLL.AssemblyInfoInputs.cache
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\Library.BLL.AssemblyInfo.cs
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\Library.BLL.csproj.CoreCompileInputs.cache
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\Library.BLL.csproj.CopyComplete
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\Library.BLL.dll
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\refint\Library.BLL.dll
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\Library.BLL.pdb
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\ref\Library.BLL.dll
+G:\iTi\Graduation Project\Library.System.Solution\Library.BLL\obj\Debug\net8.0\Library.BLL.sourcelink.json

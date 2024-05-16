@@ -1,0 +1,13 @@
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\bin\Debug\net8.0\Library.DAL.deps.json
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\bin\Debug\net8.0\Library.DAL.dll
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\bin\Debug\net8.0\Library.DAL.pdb
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\obj\Debug\net8.0\Library.DAL.csproj.AssemblyReference.cache
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\obj\Debug\net8.0\Library.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\obj\Debug\net8.0\Library.DAL.AssemblyInfoInputs.cache
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\obj\Debug\net8.0\Library.DAL.AssemblyInfo.cs
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\obj\Debug\net8.0\Library.DAL.csproj.CoreCompileInputs.cache
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\obj\Debug\net8.0\Library.DAL.dll
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\obj\Debug\net8.0\refint\Library.DAL.dll
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\obj\Debug\net8.0\Library.DAL.pdb
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\obj\Debug\net8.0\ref\Library.DAL.dll
+G:\iTi\Graduation Project\Library.System.Solution\Library.DAL\obj\Debug\net8.0\Library.DAL.sourcelink.json
